@@ -4,8 +4,10 @@ title: 수식과 그래프 테스트
 date: 2025-12-30 14:30:00
 description: MathJax 수식과 Mermaid 그래프 렌더링 예제
 tags: math diagram
-mermaid: true
 categories: sample
+mermaid:
+  enabled: true
+  zoomable: true
 ---
 
 ## 수식 예제
@@ -39,7 +41,6 @@ $$
 ## Mermaid 그래프 예제
 
 ### 플로우차트
-
 ```mermaid
 graph TD
     A[시작] --> B{조건 확인}
@@ -50,7 +51,6 @@ graph TD
 ```
 
 ### 시퀀스 다이어그램
-
 ```mermaid
 sequenceDiagram
     participant 사용자
@@ -64,7 +64,6 @@ sequenceDiagram
 ```
 
 ### 클래스 다이어그램
-
 ```mermaid
 classDiagram
     Animal <|-- Dog
