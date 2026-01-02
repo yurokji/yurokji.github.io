@@ -4,6 +4,7 @@ title: 수식과 그래프 테스트
 date: 2025-12-30 14:30:00
 description: MathJax 수식과 Mermaid 그래프 렌더링 예제
 tags: math diagram
+mermaid: true
 categories: sample
 ---
 
