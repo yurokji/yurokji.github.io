@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 # 5-8행
-title: 게으른 유록씨는 어떻게 세상을 배우는가
+title: 게으른 유록씨는 어떻게 똑똑해졌을까
 first_name: yurokji
 middle_name:  # 비워두기
 last_name: ""
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 유록지의 기록 보관소
-blog_description: 수학과 그래프가 있는 기록
+blog_name: 게으른 유록씨는 어떻게 똑똑해졌을까
+blog_description: 수학과 컴퓨터 코드, 시뮬레이션 기록 보관소
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
