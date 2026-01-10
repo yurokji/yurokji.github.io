@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 # 5-8행
-title: 게으른 유록씨는 어떻게 똑똑해졌을까
+title: 지유록의 기록 보관소 
 first_name: yurokji
 middle_name:  # 비워두기
 last_name: ""
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  수학과 컴퓨터 코드, 시뮬레이션 기록 보관소
+  계산으로 세상을 이해하고 싶다
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 게으른 유록씨는 어떻게 똑똑해졌을까
-blog_description: 수학과 컴퓨터 코드, 시뮬레이션 기록 보관소
+blog_name: 지유록의 기록 보관소
+blog_description: 계산으로 세상을 이해하고 싶다
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
